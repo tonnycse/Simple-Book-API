@@ -13,13 +13,19 @@ This project showcases how to test CRUD (Create, Read, Update, Delete) operation
 - **PATCH:** Update an order 
 - **DELETE:** Delete an order
 
+**Getting Started**
+
+**1. Import the Postman Collection:**
+
 Open Postman and import the provided collection (simple-book-api-postman-collection.json) that contains all API requests.
 
-**Set Up Variables:**
+**2. Set Up Variables:**
 
 - baseUrl
 - accessToken
 
+**3. Run API Requests:**
+   
 Use the collection to perform operations like ordering new books, updating existing ones, deleting, and retrieving book details.
 
 **Validate Responses:**
