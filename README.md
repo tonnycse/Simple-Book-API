@@ -2,6 +2,10 @@
 
 This project demonstrates testing 'Simple Book API' using Postman, covering operations like retrieving book details, getting single book, registering client, ordering book, updating order, retrieving order details, deleting order.
 
+## API Documentation
+
+For detailed information about the API endpoints, please refer to the [API Documentation] (https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md)
+
 **Overview**
 
 This project showcases how to test CRUD (Create, Read, Update, Delete) operations on a book API using Postman.
